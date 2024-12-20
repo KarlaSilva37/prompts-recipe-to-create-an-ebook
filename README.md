@@ -2,4 +2,6 @@
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante a minha participação no Bootcamp "CAIXA - IA Generativa com Microsoft Copilot" na plataforma DIO.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+Clique aqui para ler meu e-book
+
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
